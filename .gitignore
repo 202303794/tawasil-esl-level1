@@ -1,0 +1,7 @@
+# Isharah data and anything that shows a signer must never be uploaded
+*.npy
+*.mp4
+*.zip
+frames_*/
+*_frame_[0-9]*.png
+!*_points_only.png

@@ -1,0 +1,7 @@
+{
+  "python": "3.13.18",
+  "mediapipe": "0.10.32",
+  "opencv": "5.0.0",
+  "machine": "x86_64",
+  "note": "Times are measured on Google Colab, not on an Android phone."
+}

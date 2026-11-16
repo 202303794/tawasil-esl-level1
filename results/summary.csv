@@ -1,0 +1,4 @@
+video,original_fps,original_frames,duration_s,original_size,processed_size,processed_frames,values_per_frame,table_shape,hand_detected_%,both_hands_%,pose_detected_%,face_detected_%,avg_ms_per_frame,total_landmark_time_s
+frames_isharah_samples/02_0002,not given (frames),291,,256x256,640x640,291,279,291 x 279,89.3,13.4,76.6,57.4,104.5,30.63
+frames_isharah_samples/02_0032,not given (frames),418,,256x256,640x640,418,279,418 x 279,98.3,25.1,64.1,55.0,97.6,41.11
+frames_isharah_samples/02_0058,not given (frames),214,,256x256,640x640,214,279,214 x 279,80.4,5.1,69.2,0.0,93.4,20.14
